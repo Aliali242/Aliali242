@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Aliali242/Aliali242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## My hobbies are:
 -:soccer: I enjoy playing soccer
 -:video_game:I enjoy playing video games 
